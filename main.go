@@ -1,9 +1,9 @@
 package main
 
 import (
-	"https://github.com/goddamnnoob/timeAPI/app"
+	"github.com/goddamnnoob/timeAPI/app"
 )
 
-func main (){
+func main() {
 	app.Start()
 }
